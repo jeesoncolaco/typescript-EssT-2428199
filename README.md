@@ -45,3 +45,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/typescript-essential-training-14687057
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2428199/2428199-1647545390894-16x9.jpg
 
+**LinkedIn Learning URL **: 
+https://www.linkedin.com/learning/typescript-essential-training-14687057/sample-code-and-other-online-resources?autoSkip=true&autoplay=true&resume=false&u=2124100
